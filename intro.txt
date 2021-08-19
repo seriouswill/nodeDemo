@@ -1,0 +1,16 @@
+Learning objectives:
+
+1. understanding what node Js is used for.
+    understands JS outside the browser, runs apps on the backend. Node handles server side JS.
+    Event driven just like the browser, built with googles v8 engine
+    Node is written in C++ and it translates javascript into machine code
+
+2. running our javascript files in a node environment
+
+3. understanding modules and modularity
+    three different types of node modules, our own, then core modules and 3rd party modules which other people have made
+    core modules are built into node
+    
+4. import and export modules
+
+5. look at npm, and what it used for
